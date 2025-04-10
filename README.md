@@ -41,7 +41,6 @@ the fundamental part of every computing device to run any type of software.
    - LFU (Least Frequently Used)
 
 9. **Deadlock Handling**
-   - Banker's Algorithm for deadlock avoidance
    - Deadlock detection algorithm
 
 10. **Disk Scheduling Algorithms**
