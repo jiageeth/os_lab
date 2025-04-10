@@ -19,10 +19,9 @@ the fundamental part of every computing device to run any type of software.
    - a parent which create a child process and child  process produce another process for the 
      addition of two numbers.
    - program which reads a file contained and display the status of each file contained in it.
-   - write program to creat efile,write some data and read from it.
 
 3. **File I/O System Calls**
-   - write program to creat efile,write some data and read from it.
+   - write program to create file,write some data and read from it.
        
 4. **Inter-Process Communication**
    - Shared Memory implementation
